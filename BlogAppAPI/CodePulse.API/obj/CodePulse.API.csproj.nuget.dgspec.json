@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\besik\\Desktop\\Angular\\AngularWebApi\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {}
+    "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\CodePulse.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\besik\\Desktop\\Angular\\AngularWebApi\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {
+    "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\CodePulse.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\besik\\Desktop\\Angular\\AngularWebApi\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "projectUniqueName": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\CodePulse.API.csproj",
         "projectName": "CodePulse.API",
-        "projectPath": "C:\\Users\\besik\\Desktop\\Angular\\AngularWebApi\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "projectPath": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\CodePulse.API.csproj",
         "packagesPath": "C:\\Users\\besik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\besik\\Desktop\\Angular\\AngularWebApi\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\obj\\",
+        "outputPath": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

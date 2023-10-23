@@ -19,4 +19,8 @@ export class CategoryService {
   {
     return this.http.get<listcategory[]>(`${environment.baseApiUrl}/api/categories`);
   }
+  ListCategoryById(id:string):Observable<listcategory>
+  {
+    return this.http.get<listcategory>(`${environment.baseApiUrl}/api/categories/${id}`);
+  }
 }
