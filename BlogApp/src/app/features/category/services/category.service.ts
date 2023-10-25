@@ -29,4 +29,8 @@ export class CategoryService {
   {
     return this.http.put<listcategory>(`${environment.baseApiUrl}/api/categories/${id}`,model);
   }
+  DeleteCategory(id:string)
+  {
+    return this.http.delete<listcategory>(`${environment.baseApiUrl}/api/categories/${id}`);
+  }
 }

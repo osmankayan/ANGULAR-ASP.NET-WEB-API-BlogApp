@@ -55,6 +55,16 @@ export class EditCategoryComponent implements OnInit,OnDestroy {
     })
   }
 
+  onDelete():void
+  {
+    if(this.id)
+    this.categoryservice.DeleteCategory(this.id).subscribe({
+      next:(response)=>{
+        this.router.navigateByUrl('/admin/categories')
+      }
+    })
+  }
+
   ngOnDestroy(): void {
     this.subscribe?.unsubscribe();
     this.editCategorySubscription?.unsubscribe();

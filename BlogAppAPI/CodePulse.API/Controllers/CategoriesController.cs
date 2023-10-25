@@ -79,5 +79,18 @@ namespace CodePulse.API.Controllers
             var response=new CategoryDto {Id=category.Id,Name=category.Name,UrlHandle=category.UrlHandle};
             return Ok(response);
         }
+        [HttpDelete]
+        [Route("{id:Guid}")]
+        public async Task<IActionResult> DeleteCategory([FromRoute]Guid id) 
+        {
+            //dto to domain is not cause we just deleting.no need it
+            var category= await categoryRepository.DeleteAsync(id);
+            if(category is null) { return NotFound(); };
+
+            //domain to dto
+            var response=new CategoryDto { Id=category.Id, Name=category.Name, UrlHandle=category.UrlHandle};
+            return Ok(response);
+        }
+
     }
 }
