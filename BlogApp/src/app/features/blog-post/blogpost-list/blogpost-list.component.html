@@ -3,6 +3,26 @@
 
     <div class="d-flex justify-content-end mt3">
         <a class="btn btn-primary" [routerLink]="['/admin/blogposts/add']">Add BlogPosts</a>
-
     </div>
+
+    <ng-container *ngIf="blogPosts$ | async as blogPosts">
+       
+        <table class="table table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Short Description</th>
+                    <th>Is Visible</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of blogPosts">
+                    <td>{{item.title}}</td>
+                    <td>{{item.shortDescription}}</td>
+                    <td>{{item.isVisible}}</td>
+                </tr>
+            </tbody>
+        </table>
+    
+    </ng-container>
 </div>

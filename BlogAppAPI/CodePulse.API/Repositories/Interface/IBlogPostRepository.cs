@@ -6,5 +6,6 @@ namespace CodePulse.API.Repositories.Interface
     public interface IBlogPostRepository
     {
         Task<BlogPost> CreateBlogPost(BlogPost blogpost);
+        Task<IEnumerable<BlogPost>> GetAllBlogPosts();
     }
 }
