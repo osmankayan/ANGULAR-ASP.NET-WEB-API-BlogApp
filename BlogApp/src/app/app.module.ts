@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule, SecurityContext } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -11,6 +11,11 @@ import {HttpClientModule,HTTP_INTERCEPTORS} from '@angular/common/http';
 import { EditCategoryComponent } from './features/category/edit-category/edit-category.component';
 import { BlogpostListComponent } from './features/blog-post/blogpost-list/blogpost-list.component';
 import { AddBlogpostComponent } from './features/blog-post/add-blogpost/add-blogpost.component';
+// import { MarkdownModule } from 'ngx-markdown/public_api';
+// import { MarkdownModule } from 'ngx-markdown/src';
+// import { MarkdownModule } from 'ngx-markdown/src/markdown.module';
+import { MarkdownModule } from 'ngx-markdown';
+
 
 
 @NgModule({
@@ -28,7 +33,11 @@ import { AddBlogpostComponent } from './features/blog-post/add-blogpost/add-blog
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    MarkdownModule.forRoot({
+      sanitize:SecurityContext.NONE
+    }),
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

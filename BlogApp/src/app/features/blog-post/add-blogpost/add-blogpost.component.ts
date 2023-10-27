@@ -9,7 +9,7 @@ import { Router } from '@angular/router';
   templateUrl: './add-blogpost.component.html',
   styleUrls: ['./add-blogpost.component.css']
 })
-export class AddBlogpostComponent implements OnDestroy {
+export class AddBlogpostComponent  {
 
   subscription?: Subscription
 
@@ -20,7 +20,7 @@ export class AddBlogpostComponent implements OnDestroy {
       title: '',
       shortDescription: '',
       urlHandle: '',
-      content: '',
+      content: '# Osman',
       featuredImageUrl: '',
       author: '',
       isVisible: true,
@@ -29,7 +29,8 @@ export class AddBlogpostComponent implements OnDestroy {
   }
 
   onFormSubmit(): void {
-    this.subscription = this.blogPostService.addBlogPost(this.model).subscribe({
+    // this.subscription = 
+    this.blogPostService.addBlogPost(this.model).subscribe({
       next: (response) => {
         this.router.navigateByUrl('/admin/blogposts')
       }
@@ -37,8 +38,8 @@ export class AddBlogpostComponent implements OnDestroy {
     console.log(this.model)
   }
 
-  ngOnDestroy(): void {
-    this.subscription?.unsubscribe();
-  }
+  // ngOnDestroy(): void {
+  //   this.subscription?.unsubscribe();
+  // }
 
 }
