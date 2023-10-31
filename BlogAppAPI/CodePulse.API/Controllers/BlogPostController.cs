@@ -11,9 +11,11 @@ namespace CodePulse.API.Controllers
     public class BlogPostController : ControllerBase
     {
         IBlogPostRepository blogPostRepository;
-        public BlogPostController(IBlogPostRepository blogPostRepository)
+        ICategoryRepository categoryRepository;
+        public BlogPostController(IBlogPostRepository blogPostRepository, ICategoryRepository categoryRepository)
         {
             this.blogPostRepository = blogPostRepository;
+            this.categoryRepository = categoryRepository;
         }
         [HttpPost]
         public async Task<IActionResult> CreateBlogPost(CreateBlogPostRequestDto request) 
@@ -28,8 +30,19 @@ namespace CodePulse.API.Controllers
                 UrlHandle = request.UrlHandle,
                 Author = request.Author,
                 PublishedDate = request.PublishedDate,
-                IsVisible = request.IsVisible
+                IsVisible = request.IsVisible,
+                Categories=new List<Category>()
+                
             };
+            foreach (var categoryId in request.categories) 
+            {
+                var existing =await categoryRepository.ListById(categoryId);
+                if (existing != null) 
+                {
+                    blogPost.Categories.Add(existing);
+                }
+            }
+
             await blogPostRepository.CreateBlogPost(blogPost);
 
             //domain to dto
@@ -42,7 +55,13 @@ namespace CodePulse.API.Controllers
             UrlHandle = blogPost.UrlHandle,
             Author= blogPost.Author,
             PublishedDate = blogPost.PublishedDate,
-            IsVisible = blogPost.IsVisible
+            IsVisible = blogPost.IsVisible,
+            categories=blogPost.Categories.Select(x=>new CategoryDto {
+            
+                Id=x.Id,
+                Name=x.Name,
+                UrlHandle=x.UrlHandle,
+            }).ToList()
             };
 
             return Ok(response);
@@ -64,7 +83,14 @@ namespace CodePulse.API.Controllers
                 UrlHandle = item.UrlHandle,
                 Author= item.Author,
                 PublishedDate = item.PublishedDate,
-                IsVisible = item.IsVisible
+                IsVisible = item.IsVisible,
+                    categories = item.Categories.Select(x => new CategoryDto
+                    {
+
+                        Id = x.Id,
+                        Name = x.Name,
+                        UrlHandle = x.UrlHandle,
+                    }).ToList()
                 });
             }
             return Ok(response);
