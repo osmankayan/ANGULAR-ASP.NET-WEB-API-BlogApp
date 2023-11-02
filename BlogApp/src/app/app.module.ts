@@ -15,6 +15,9 @@ import { AddBlogpostComponent } from './features/blog-post/add-blogpost/add-blog
 // import { MarkdownModule } from 'ngx-markdown/src';
 // import { MarkdownModule } from 'ngx-markdown/src/markdown.module';
 import { MarkdownModule } from 'ngx-markdown';
+import { EditBlogpostComponent } from './features/blog-post/edit-blogpost/edit-blogpost/edit-blogpost.component';
+
+
 
 
 
@@ -26,7 +29,10 @@ import { MarkdownModule } from 'ngx-markdown';
     CategoryAddComponent,
     EditCategoryComponent,
     BlogpostListComponent,
-    AddBlogpostComponent
+    AddBlogpostComponent,
+    EditBlogpostComponent,
+    
+    
     
   ],
   imports: [

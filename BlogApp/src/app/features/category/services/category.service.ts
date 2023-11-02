@@ -33,4 +33,5 @@ export class CategoryService {
   {
     return this.http.delete<listcategory>(`${environment.baseApiUrl}/api/categories/${id}`);
   }
+  
 }
