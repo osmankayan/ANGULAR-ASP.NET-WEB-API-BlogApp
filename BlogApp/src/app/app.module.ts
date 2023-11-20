@@ -17,6 +17,8 @@ import { AddBlogpostComponent } from './features/blog-post/add-blogpost/add-blog
 import { MarkdownModule } from 'ngx-markdown';
 import { EditBlogpostComponent } from './features/blog-post/edit-blogpost/edit-blogpost/edit-blogpost.component';
 import { ImageSelectorComponent } from './shared/components/image-selector/image-selector.component';
+import { HomeComponent } from './features/public/home/home.component';
+import { BlogDetailsComponent } from './features/public/blog-details/blog-details.component';
 
 
 
@@ -33,6 +35,8 @@ import { ImageSelectorComponent } from './shared/components/image-selector/image
     AddBlogpostComponent,
     EditBlogpostComponent,
     ImageSelectorComponent,
+    HomeComponent,
+    BlogDetailsComponent,
     
     
     
