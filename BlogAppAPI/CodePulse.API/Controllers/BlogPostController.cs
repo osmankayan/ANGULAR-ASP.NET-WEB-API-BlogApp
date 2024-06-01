@@ -2,6 +2,7 @@
 using CodePulse.API.Models.Domain;
 using CodePulse.API.Models.DTO;
 using CodePulse.API.Repositories.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -68,6 +69,8 @@ namespace CodePulse.API.Controllers
             return Ok(response);
         }
         [HttpGet]
+        [Authorize(Roles = "Writer")]
+        //[Authorize(Policy = "WriterPolicy")]
         public async Task<IActionResult> GetAllBlogPosts()
         {
             var blogposts = await blogPostRepository.GetAllBlogPosts();
@@ -94,6 +97,7 @@ namespace CodePulse.API.Controllers
                     }).ToList()
                 });
             }
+            var a=User.IsInRole("Writer");
             return Ok(response);
 
 

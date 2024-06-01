@@ -7,32 +7,24 @@
       "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\codepulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\codepulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,41 +38,41 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "CodePulse.API\\Data\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:20:44.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CodePulse.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CodePulse.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T20:53:22.765Z",
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\BlogPostController.cs",
+              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\BlogPostController.cs",
+              "RelativeToolTip": "CodePulse.API\\Controllers\\BlogPostController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:38:08.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CodePulse.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\appsettings.json",
-              "RelativeToolTip": "CodePulse.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-09T20:52:36.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CodePulse.API",
-              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\CodePulse.API.csproj",
-              "RelativeDocumentMoniker": "CodePulse.API\\CodePulse.API.csproj",
-              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\CodePulse.API.csproj",
-              "RelativeToolTip": "CodePulse.API\\CodePulse.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-09T20:38:09.6Z",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CodePulse.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:04:23.548Z",
               "EditorCaption": ""
             },
             {
@@ -91,61 +83,35 @@
               "RelativeDocumentMoniker": "CodePulse.API\\Program.cs",
               "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Program.cs",
               "RelativeToolTip": "CodePulse.API\\Program.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAQwEcAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:21:03.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BlogPostController.cs",
-              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\BlogPostController.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\BlogPostController.cs",
-              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\BlogPostController.cs",
-              "RelativeToolTip": "CodePulse.API\\Controllers\\BlogPostController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-29T08:31:35.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogPost.cs",
-              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Models\\Domain\\BlogPost.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Models\\Domain\\BlogPost.cs",
-              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Models\\Domain\\BlogPost.cs",
-              "RelativeToolTip": "CodePulse.API\\Models\\Domain\\BlogPost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-28T08:59:30.416Z",
+              "WhenOpened": "2024-06-01T17:53:37.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-23T13:48:21.52Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CodePulse.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\appsettings.json",
+              "RelativeToolTip": "CodePulse.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T17:53:29.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Data\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Data\\AuthDbContext.cs",
-              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Data\\AuthDbContext.cs",
-              "RelativeToolTip": "CodePulse.API\\Data\\AuthDbContext.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowD0AAAA2AAAA",
+              "DocumentIndex": 1,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-21T10:07:27.075Z",
+              "WhenOpened": "2024-06-01T17:43:07.941Z",
               "EditorCaption": ""
             }
           ]

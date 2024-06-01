@@ -234,3 +234,7 @@ C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePul
 C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePulse.API\obj\Debug\net7.0\CodePuls.CA016005.Up2Date
+C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePulse.API\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePulse.API\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePulse.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\besik\Desktop\GitHub\ANGULAR-ASP.NET-WEB-API-BlogApp\BlogAppAPI\CodePulse.API\bin\Debug\net7.0\Swashbuckle.Core.dll
