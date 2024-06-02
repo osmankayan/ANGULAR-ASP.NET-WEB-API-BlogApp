@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\codepulse.api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\codepulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\codepulse.api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\besik\\desktop\\github\\angular-asp.net-web-api-blogapp\\blogappapi\\codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{004C85EA-FDB5-4E6E-A810-50BF3DD812A3}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "CodePulse.API\\Data\\AuthDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:20:44.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T19:20:44.625Z"
             },
             {
               "$type": "Document",
@@ -64,20 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "CodePulse.API\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDEAAAAIAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAADgvzEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T18:04:23.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Program.cs",
               "RelativeDocumentMoniker": "CodePulse.API\\Program.cs",
@@ -98,18 +97,17 @@
               "RelativeToolTip": "CodePulse.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T17:53:29.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T17:53:29.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TokenRepository.cs",
               "DocumentMoniker": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
               "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
               "ToolTip": "C:\\Users\\besik\\Desktop\\GitHub\\ANGULAR-ASP.NET-WEB-API-BlogApp\\BlogAppAPI\\CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
               "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\TokenRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T17:43:07.941Z",
               "EditorCaption": ""
