@@ -29,8 +29,19 @@ onFormSubmit():void
   this.authService.login(this.model)
   .subscribe({
     next:(response)=>{
-      this.cookieService.set('Authorization',`Bearer ${response.token}`,undefined,'/',undefined,true,'Strict')
 
+      //set auth cookie
+      this.cookieService.set('Authorization',`Bearer ${response.token}`,undefined,'/',undefined,true,'Strict')
+      
+      //set user
+      this.authService.setUser({
+       email : response.name,
+       roles: response.roles
+        
+        
+      })
+
+      //Redirect back to home
       this.router.navigateByUrl('/')
     }
   })
